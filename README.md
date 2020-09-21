@@ -48,7 +48,8 @@ To cite our study, please refer to the following information. This
 information will be updated if the current manuscript is formally
 accepted for publication.
 
-* Park SR, Namkoong S, Zhang ZZ, Friesen L, Chen YC, Yoon E, Kim CH,
-  Kwak H, Kang HM, Lee JH. Heterogeneous transcriptome response to DNA
-  damage at single cell resolution. BioRxiv. 2019, 737130.
-
+* Park SR, Namkoong S, Friesen L, Cho CS, Zhang ZZ, Chen YC, Yoon E,
+ Kim CH, Kwak H, Kang HM, Lee JH. Single-Cell Transcriptome Analysis
+ of Colon Cancer Cell Response to 5-Fluorouracil-Induced DNA Damage.
+ Cell Rep. 2020 Aug 25;32(8):108077. doi: 10.1016/j.celrep.2020.108077.
+ PMID: 3284613
