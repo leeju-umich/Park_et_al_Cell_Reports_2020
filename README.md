@@ -52,4 +52,4 @@ accepted for publication.
  Kim CH, Kwak H, Kang HM, Lee JH. Single-Cell Transcriptome Analysis
  of Colon Cancer Cell Response to 5-Fluorouracil-Induced DNA Damage.
  Cell Rep. 2020 Aug 25;32(8):108077. doi: 10.1016/j.celrep.2020.108077.
- PMID: 3284613
+ PMID: 32846134
